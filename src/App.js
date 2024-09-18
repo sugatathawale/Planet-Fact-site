@@ -1,3 +1,4 @@
+import React from 'react';
 import { PlanetContextProvider } from './context/PlanetContext'
 import { CategoryProvider } from './context/CategoryContext'
 import { Home } from './pages'
